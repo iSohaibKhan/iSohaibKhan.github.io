@@ -4,7 +4,9 @@ Thanks for downloading this template!
 <h1>Template Details</h1>
 
 Template Name: ePortfolio
+<br>
 Author: Sohaib S. Khan
+<br>
 Author URL: https://isohaibkhan.github.io (Portfolio)
 
 <h2>Social Links!</h2>
